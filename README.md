@@ -6,7 +6,7 @@ This project provides a seamless integration between GitHub and JIRA, enabling t
 
 ## Project Architecture
 
-![App Screenshot](https://image2url.com/r2/default/images/1769606223863-ed2f2c68-5806-4430-9d2f-964c3c31bdf6.png) 
+![App Screenshot](https://snipboard.io/8QfBLp.jpg) 
 
 ## Tools Used 
 
