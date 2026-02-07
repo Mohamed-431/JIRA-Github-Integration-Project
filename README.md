@@ -6,7 +6,7 @@ This project provides a seamless integration between GitHub and JIRA, enabling t
 
 ## Project Architecture
 
--![](https://image2url.com/r2/default/images/1769606223863-ed2f2c68-5806-4430-9d2f-964c3c31bdf6.png) 
+![](https://image2url.com/r2/default/images/1769606223863-ed2f2c68-5806-4430-9d2f-964c3c31bdf6.png) 
 
 ## Tools Used 
 
@@ -60,4 +60,4 @@ In summary, this project successfully achieved its objective of automating the c
 
 
 
-kkkjjjjdevelop the webhook server and the requests library to communicate with JIRA's REST API, I have also been able to demonstrate my Python expertise. Finally, by bridging the gap between GitHub and JIRA with the implementation of webhooks and cloud infrastructure, this project has also enabled me to showcase my comprehensive understanding of DevOps automation principles.
+
