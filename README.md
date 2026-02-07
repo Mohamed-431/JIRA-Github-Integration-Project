@@ -6,7 +6,7 @@ This project provides a seamless integration between GitHub and JIRA, enabling t
 
 ## Project Architecture
 
-![App Screenshot](https://snipboard.io/8QfBLp.jpg) 
+![](https://snipboard.io/ZKinuC.jpg) 
 
 ## Tools Used 
 
@@ -21,30 +21,30 @@ This project provides a seamless integration between GitHub and JIRA, enabling t
 ### GitHub Issue
 
 **Before:**
-![](https://image2url.com/r2/default/images/1770495085408-2d850bbd-b5b2-4af4-b593-ab3b586f6981.png)
+![](https://snipboard.io/8QfBLp.jpg)
 
 **After:**
-![](https://image2url.com/r2/default/images/1770495155390-a61a2578-a284-45e0-a358-0817e379c947.png)
+![](https://snipboard.io/3G5pv4.jpg)
 
 ---
 
 ### JIRA
 
 **Before:**
-![](https://image2url.com/r2/default/images/1770495302750-5168f07a-9982-4c05-b8dd-9ce5cf418fd8.png)
+![](https://snipboard.io/gvQdh6.jpg)
 
 **After:**
-![](https://image2url.com/r2/default/images/1770495442568-615d34bc-a51d-42c9-87c1-d1989c0ef222.png)
+![](https://snipboard.io/eGXH8P.jpg)
 
 ---
 
 ### Flask Webhook Server
 
 **Before:**
-![](https://image2url.com/r2/default/images/1770495726530-f5d703a6-5ae4-4ead-9e74-acf43d4da0a3.png)
+![](https://snipboard.io/0c1VuU.jpg)
 
 **After:**
-![](https://image2url.com/r2/default/images/1770495996890-6ed86adf-c25d-4246-a4b3-b2c48e39e9fd.png)
+![](https://snipboard.io/VX1pN7.jpg)
 
 
 ## What is the need for this project?
